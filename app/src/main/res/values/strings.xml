@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gestor de Tareas</string>
+    <string name="EscribaNombre">Escriba su Nombre</string>
+    <string name="escribirCorreo">Escriba su Correo</string>
+    <string name="escribaNumTelefono">Escriba Numero de Telefono</string>
+    <string name="guardarBtn">Guardar</string>
+    <string name="nombre_error">Error de nombre</string>
+    <string name="email_error">Su email no es correcto</string>
+    <string name="telefono_error">Su numero no es correcto</string>
+    <string name="bienvenido">Bienvenido</string>
+</resources>

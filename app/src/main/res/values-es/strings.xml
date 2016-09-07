@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestor de Tareas</string>
+    <string name="EscribaNombre">Escriba Nombe</string>
+    <string name="escribirCorreo">Escriba su Correo</string>
+    <string name="escribaNumTelefono">Escriba su Nro de telefono</string>
+    <string name="guardarBtn">Guardar</string>
+    <string name="nombre_error">Error de Nombre</string>
+    <string name="telefono_error">Numero no valido</string>
+    <string name="email_error">email No valido</string>
+    <string name="bienvenido">bienvenido</string>
+</resources>
